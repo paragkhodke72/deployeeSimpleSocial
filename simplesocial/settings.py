@@ -25,7 +25,7 @@ SECRET_KEY = '-&0x+&%&&h7gjy%$7-ip!j21#(58gf+(g9nkb-6@@w01$d9$uy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','simplesocialparag.herokuapp.com']
 
 
 # Application definition
