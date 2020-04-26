@@ -1,0 +1,14 @@
+asgiref==3.2.7
+beautifulsoup4==4.9.0
+cffi==1.14.0
+Django==3.0.5
+django-bootstrap4==1.1.1
+django-braces==1.14.0
+gunicorn==20.0.4
+misaka==2.1.1
+Pillow==7.1.1
+pycparser==2.20
+pytz==2019.3
+six==1.14.0
+soupsieve==2.0
+sqlparse==0.3.1
