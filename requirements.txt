@@ -6,7 +6,7 @@ django-bootstrap4==1.1.1
 django-braces==1.14.0
 gunicorn==20.0.4
 misaka==2.1.1
-Pillow==7.1.1
+Pillow==9.0.0
 pycparser==2.20
 pytz==2019.3
 six==1.14.0
